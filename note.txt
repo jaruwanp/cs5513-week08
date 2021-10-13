@@ -1,0 +1,40 @@
+ghttps://github.com/bjcarlson42/overly-complicated-todo-app
+https://www.coffeeclass.io/tutorials/todo-app-nextjs-chakraui-firebase
+
+https://raptis.wtf/blog/create-a-navbar-with-chakra-ui-react/#installation
+https://www.coffeeclass.io/tutorials/todo-app-nextjs-chakraui-firebase
+
+
+npm install @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
+----------------------
+
+git init
+git status 
+git add  — all
+
+git config --global user.email "jaruwanpatt@gmail.com"
+git config --global user.name "Jaruwan Pattanasing"
+git commit -m "initial repo commit"
+
+
+git commit -m "first commit"
+git branch -M main          ========> rename 
+git remote add origin https://github.com/jaruwanp/week05-demo-app2.git
+git push -u origin main
+
+
+Update repo
+——————————————
+ git add --all
+git commit -m "first update"
+git push -u origin main
+
+
+
+Tutorial
+https://nextjs.org/learn/basics/create-nextjs-app
+Deploy
+https://vercel.com/new
+
+https://santarosa-edu.zoom.us/rec/play/6gxUhZyCF-Zxt5HMro8Y2EU_-G7-ASYqjnZY2TUeL1WOAE7OjMGtPkrNI-0FJ5ID1jMwwJX-x9LNC2BL.kPl9heDvzoCHC5XH?startTime=1631212210000&_x_zm_rtaid=NCWoCMy_RTyOSoJd-rehxw.1632477178352.1b31eccb1043e5f6376aebf9c87dcac4&_x_zm_rhtaid=246
+2.07
